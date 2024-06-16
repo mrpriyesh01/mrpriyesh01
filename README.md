@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm priyesh singh</h1>
+<h1 align="center">Hi 👋, I'm Priyesh Singh</h1>
 <h3 align="center">A passionate data engineer from India</h3>
 <img align="right" alt="coding" width="350" src="https://miro.medium.com/v2/resize:fit:1358/1*TjXUGjDSTAR-H3O2M9M50A.gif">
 
