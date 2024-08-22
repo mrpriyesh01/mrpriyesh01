@@ -15,25 +15,24 @@
 
 ### 🕵 Social Media Handles!<br>
 
-<div align="left">
-  <a href="www.linkedin.com/in/htppriyesh" target="_blank">
+
+### Languages: 
+<div align="left"><div align="left">
+  <a href="https://www.linkedin.com/in/htppriyesh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.geeksforgeeks.org/user/mrpriye1eoo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=geeksforgeeks&logo=geeksforgeeks&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=geeksforgeeks&logo=geeksforgeeks&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="geeksforgeeks logo"  />
   </a>
-   <a href="https://leetcode.com/u/mrpriyesh037/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=leetcode&logo=leetcode&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <a href="https://leetcode.com/u/mrpriyesh037/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=leetcode&logo=leetcode&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="leetcode logo"  />
+  </a>
   <a href="https://www.hackerrank.com/profile/mrpriyesh037/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
-  </a>
- 
   </a>
 </div>
 <br>
 
-### Languages: 
-<div align="left">
   
 
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
