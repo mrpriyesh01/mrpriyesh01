@@ -58,12 +58,13 @@
 </div>
 <br>
 
- <a href="https://github.com/mrpriyesh01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpriyesh01&layout=compact&theme=buefy&hide_border=true" /></a>
-
-
- 
   <img src="https://github-profile-trophy.vercel.app?username=mrpriyesh01&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /><br><br>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrpriyesh01)](https://git.io/streak-stats)
+
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpriyesh01&show_icons=true&locale=en&layout=compact" alt="mrpriyesh01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpriyesh01&" alt="mrpriyesh01" /></p>
+
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrpriyesh01&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
