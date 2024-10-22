@@ -9,7 +9,7 @@
   <img height="200" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width= "350" align=right />
 </div>
 - 👨‍🏭 I’m currently pursuing <b>BCA  From Lovely Professional University</b> <br>
-- 🏫 I’m currently learning <b>Data Structures,Big Data,Data Warehouse,</b> <br>
+- 🏫 I’m currently learning <b>Data Structures,Big Data,Data Warehouse,Pyspark,Hadoop</b> <br>
 - 🙌 I’m looking to collaborate on <b>data science Projects</b> <br>
 - 🥅 Upcoming Goals: <b>Contribute to open source and learn DSA </b> <br>
 
